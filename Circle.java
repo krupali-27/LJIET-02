@@ -11,7 +11,7 @@ public class Circle
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter radius");
-        radius=sc.nextFloat();
+        radius=sc.nextDouble();
         
     }
     public void calArea()
