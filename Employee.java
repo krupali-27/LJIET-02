@@ -26,6 +26,7 @@ public class Employee
         {
             e[i]=new EmpCount();
         }
+     //calling static method
         System.out.println("count of number of employee is="+EmpCount.getCount());
     }
 }
